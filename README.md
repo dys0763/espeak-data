@@ -1,0 +1,2 @@
+# kdata
+espeak-data-korean
