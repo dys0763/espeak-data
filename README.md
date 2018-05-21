@@ -3,6 +3,6 @@ espeak-data-korean
 
 Location : /home/pi/
 
-wget -O espeak-data.zip https://github.com/dys0763/kdata/upload/master/espeak-data.zip
+sudo apt-get install git-core
 
-unzip espeak-data.zip
+sudo git clone https://github.com/dys0763/espeak-data.git
